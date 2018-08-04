@@ -1,5 +1,5 @@
 
-b	x^3-x-4=0;                     a=1,b=2,i=0.0001
+b)	x^3-x-4=0;                     a=1,b=2,i=0.0001
 
 function  m = bisection(f, low, high, tol)
 disp('Bisection Method'); 

@@ -49,3 +49,8 @@ f =
 >> b=2;
 >> i=0.0001;
 >> bisection7 (f,a,b,i)
+hye fakyhaaa
+.
+.
+.
+.
